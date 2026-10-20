@@ -3,7 +3,7 @@
 Eine Computer-KI für **EDOPro (Project Ignis)**, die das Deck **„Sun God“** (The Winged Dragon of Ra) spielt – gratis, mit offenem Quellcode.
 Du kannst gegen sie spielen oder sie gegen andere KIs antreten lassen.
 
-📺 Die KI in Aktion: YouTube **[Keto Saiba](https://www.youtube.com/@KetoSaibaYGO)** · Instagram **[@ketosaiba.ygo](https://www.instagram.com/ketosaiba.ygo)**
+📺 Die KI in Aktion: YouTube **[Keto Saiba](https://www.youtube.com/@KetoSaibaYGO)** · Instagram **[@ketosaiba.ygo](https://www.instagram.com/ketosaiba.ygo)** · Patreon **[Keto Saiba](https://www.patreon.com/KetoSaibaYgo)**
 
 > *English: A free, open-source WindBot AI for EDOPro that plays the "Sun God" (Winged Dragon of Ra) deck. Download the ZIP under **Releases**, copy the folders into your ProjectIgnis folder and add the bot entry (see `ANLEITUNG.txt` in the ZIP).*
 
@@ -32,7 +32,7 @@ Rechts unter **Releases** die neueste `SunGod-AI-EDOPro-….zip` herunterladen. 
 Version: 2026.10.20
 
 ## ❤️ Unterstützen
-Die KI ist und bleibt **kostenlos**. Wenn du die Arbeit trotzdem unterstützen möchtest: über den **Sponsor**-Button oben (Patreon) – ganz freiwillig, du bekommst dafür keine zusätzlichen Inhalte an der KI.
+Die KI ist und bleibt **kostenlos**. Wenn du die Arbeit trotzdem unterstützen möchtest: auf **[Patreon](https://www.patreon.com/KetoSaibaYgo)** (oder über den **Sponsor**-Button oben) – ganz freiwillig, du bekommst dafür keine zusätzlichen Inhalte an der KI.
 
 ## ⚖️ Lizenz & Hinweise
 - Lizenz: **GNU AGPL-3.0** (siehe `LICENSE`). Die KI baut auf [WindBot Ignite](https://github.com/ProjectIgnis/windbot) von Project Ignis auf, das ebenfalls unter der AGPL-3.0 steht. Du darfst den Code nutzen, ändern und weitergeben, solange du deine Änderungen ebenfalls unter der AGPL-3.0 mit Quellcode veröffentlichst.

@@ -1,0 +1,5 @@
+bin/
+obj/
+src/lib/
+release/
+*.log

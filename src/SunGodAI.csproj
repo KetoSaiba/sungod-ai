@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <!-- SUN GOD AI – Zusatz-KI für den WindBot von EDOPro. Ausgabe: SunGodAI.dll → ProjectIgnis\WindBot\Executors -->
+  <PropertyGroup>
+    <TargetFramework>net48</TargetFramework>
+    <AssemblyName>SunGodAI</AssemblyName>
+    <RootNamespace>WindBot.Game.AI.Decks</RootNamespace>
+    <LangVersion>latest</LangVersion>
+    <Nullable>disable</Nullable>
+    <Version>2026.10.20</Version>
+    <Authors>Keto Saiba</Authors>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.NETFramework.ReferenceAssemblies" Version="1.0.3" PrivateAssets="all" />
+  </ItemGroup>
+  <ItemGroup>
+    <!-- ExecutorBase.dll aus dem eigenen EDOPro-Ordner (ProjectIgnis\WindBot) nach src\lib kopieren -->
+    <Reference Include="ExecutorBase">
+      <HintPath>lib\ExecutorBase.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+  </ItemGroup>
+</Project>
